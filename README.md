@@ -127,6 +127,7 @@
 │   ├── README.md
 │   └── regions-cut-by-slashes.java
 ├── LICENSE
-└── README.md
+├── README.md
+└── structure.txt
 ```
 <!-- END_STRUCTURE -->
