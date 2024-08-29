@@ -79,6 +79,9 @@
 ├── 921-spiral-matrix-iii
 │   ├── README.md
 │   └── spiral-matrix-iii.java
+├── 984-most-stones-removed-with-same-row-or-column
+│   ├── README.md
+│   └── most-stones-removed-with-same-row-or-column.java
 ├── 999-regions-cut-by-slashes
 │   ├── README.md
 │   └── regions-cut-by-slashes.java
