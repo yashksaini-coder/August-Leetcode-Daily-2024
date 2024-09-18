@@ -2,6 +2,7 @@
 name: Detect Changes and Trigger Workflow
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main  # Change this to the branch you want to monitor
@@ -19,7 +20,7 @@ jobs:
 
     - name: Trigger workflow in another repository
       env:
-        GITHUB_TOKEN: ${{ secrets.REPO_ACCESS_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.SEPTEMBER_2024 }}
       run: |
         echo "Changes detected. Workflow Triggered!"
         curl -X POST \
