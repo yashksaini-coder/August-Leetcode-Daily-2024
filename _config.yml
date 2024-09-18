@@ -1,0 +1,8 @@
+title: August Leetcode Daily 2024
+author: Yash Kumar Saini
+description: A Repository to maintain my August Leetcode Coding session 2024
+show_downloads: false
+google_analytics:
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme 

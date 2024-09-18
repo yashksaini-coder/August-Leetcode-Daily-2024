@@ -1,0 +1,37 @@
+name: Generate Table of Contents
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at 00:00 UTC every day
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+        working-directory: scripts
+
+      - name: Run index.js
+        run: node index.js
+        working-directory: scripts
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update README with table of contents" && git push)
+        working-directory: ${{ github.workspace }}
