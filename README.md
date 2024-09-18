@@ -38,8 +38,41 @@
 
 ## Solutions
 
-<!-- SOLUTIONS TABLE BEGIN -->
 
+<!-- SOLUTIONS TABLE BEGIN -->
+| Leetcode Problem | Problem Statement | Solution |
+|---:|:-----|:----:|
+| [40](https://leetcode.com/problems/combination-sum-ii/) | Combination Sum II | [Solution](./40-combination-sum-ii/combination-sum-ii.java) |
+| [145](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Binary Tree Postorder Traversal | [Solution](./145-binary-tree-postorder-traversal/binary-tree-postorder-traversal.java) |
+| [264](https://leetcode.com/problems/ugly-number-ii/) | Ugly Number II | [Solution](./264-ugly-number-ii/ugly-number-ii.java) |
+| [273](https://leetcode.com/problems/integer-to-english-words/) | Integer to English Words | [Solution](./273-integer-to-english-words/integer-to-english-words.java) |
+| [476](https://leetcode.com/problems/number-complement/) | Number Complement | [Solution](./476-number-complement/number-complement.java) |
+| [564](https://leetcode.com/problems/find-the-closest-palindrome/) | Find the Closest Palindrome | [Solution](./564-find-the-closest-palindrome/find-the-closest-palindrome.java) |
+| [592](https://leetcode.com/problems/fraction-addition-and-subtraction/) | Fraction Addition and Subtraction | [Solution](./592-fraction-addition-and-subtraction/fraction-addition-and-subtraction.java) |
+| [624](https://leetcode.com/problems/maximum-distance-in-arrays/) | Maximum Distance in Arrays | [Solution](./624-maximum-distance-in-arrays/maximum-distance-in-arrays.java) |
+| [650](https://leetcode.com/problems/2-keys-keyboard/) | 2 Keys Keyboard | [Solution](./650-2-keys-keyboard/2-keys-keyboard.java) |
+| [664](https://leetcode.com/problems/strange-printer/) | Strange Printer | [Solution](./664-strange-printer/strange-printer.java) |
+| [719](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | Find K Th Smallest Pair Distance | [Solution](./719-find-k-th-smallest-pair-distance/find-k-th-smallest-pair-distance.java) |
+| [776](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | N Ary Tree Postorder Traversal | [Solution](./776-n-ary-tree-postorder-traversal/n-ary-tree-postorder-traversal.java) |
+| [789](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Kth Largest Element in a Stream | [Solution](./789-kth-largest-element-in-a-stream/kth-largest-element-in-a-stream.java) |
+| [870](https://leetcode.com/problems/magic-squares-in-grid/) | Magic Squares in Grid | [Solution](./870-magic-squares-in-grid/magic-squares-in-grid.java) |
+| [890](https://leetcode.com/problems/lemonade-change/) | Lemonade Change | [Solution](./890-lemonade-change/lemonade-change.java) |
+| [921](https://leetcode.com/problems/spiral-matrix-iii/) | Spiral Matrix III | [Solution](./921-spiral-matrix-iii/spiral-matrix-iii.java) |
+| [984](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | Most Stones Removed With same Row or Column | [Solution](./984-most-stones-removed-with-same-row-or-column/most-stones-removed-with-same-row-or-column.java) |
+| [999](https://leetcode.com/problems/regions-cut-by-slashes/) | Regions Cut by Slashes | [Solution](./999-regions-cut-by-slashes/regions-cut-by-slashes.java) |
+| [1240](https://leetcode.com/problems/stone-game-ii/) | Stone Game II | [Solution](./1240-stone-game-ii/stone-game-ii.java) |
+| [1325](https://leetcode.com/problems/path-with-maximum-probability/) | Path With Maximum Probability | [Solution](./1325-path-with-maximum-probability/path-with-maximum-probability.java) |
+| [1556](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | Make Two Arrays Equal by Reversing Subarrays | [Solution](./1556-make-two-arrays-equal-by-reversing-subarrays/make-two-arrays-equal-by-reversing-subarrays.java) |
+| [1615](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/) | Range Sum of Sorted Subarray Sums | [Solution](./1615-range-sum-of-sorted-subarray-sums/range-sum-of-sorted-subarray-sums.java) |
+| [1691](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) | Minimum Number of Days to Disconnect Island | [Solution](./1691-minimum-number-of-days-to-disconnect-island/minimum-number-of-days-to-disconnect-island.java) |
+| [2035](https://leetcode.com/problems/count-sub-islands/) | Count Sub Islands | [Solution](./2035-count-sub-islands/count-sub-islands.java) |
+| [2067](https://leetcode.com/problems/maximum-number-of-points-with-cost/) | Maximum Number of Points With Cost | [Solution](./2067-maximum-number-of-points-with-cost/maximum-number-of-points-with-cost.java) |
+| [2163](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | Kth Distinct String in an Array | [Solution](./2163-kth-distinct-string-in-an-array/kth-distinct-string-in-an-array.java) |
+| [2255](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | Minimum Swaps to Group all 1s Together II | [Solution](./2255-minimum-swaps-to-group-all-1s-together-ii/minimum-swaps-to-group-all-1s-together-ii.java) |
+| [2727](https://leetcode.com/problems/number-of-senior-citizens/) | Number of Senior Citizens | [Solution](./2727-number-of-senior-citizens/number-of-senior-citizens.java) |
+| [2803](https://leetcode.com/problems/modify-graph-edge-weights/) | Modify Graph Edge Weights | [Solution](./2803-modify-graph-edge-weights/modify-graph-edge-weights.java) |
+| [3276](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Minimum Number of Pushes to Type Word II | [Solution](./3276-minimum-number-of-pushes-to-type-word-ii/minimum-number-of-pushes-to-type-word-ii.java) |
+| [NaN](https://leetcode.com/problems//) |  | [Solution](./scripts/.java) |
 <!-- SOLUTIONS TABLE END -->
 
 <br>
