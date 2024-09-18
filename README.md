@@ -23,17 +23,16 @@
 </div>
 <br>
 
-<div align='center' style=" display: grid;">
-
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ys3853428@gmail.com)
-  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashksaini-coder)
-  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yashksaini)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashksaini/)
-  [![Bento](https://img.shields.io/badge/Bento-768CFF.svg?style=for-the-badge&logo=Bento&logoColor=white)](https://bento.me/yashksaini)
-[![Instagram](https://img.shields.io/badge/Instagram-%23FF006E.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yashksaini.codes/)
-  [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/EasycodesDev) 
+<div align='center'>
+    <a href="mailto:ys3853428@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+    <a href="https://github.com/yashksaini-coder"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
+    <a href="https://medium.com/@yashksaini"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"> </a>
+    <a href="https://www.linkedin.com/in/yashksaini/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+    <a href="https://bento.me/yashksaini"> <img src="https://img.shields.io/badge/Bento-768CFF.svg?style=for-the-badge&logo=Bento&logoColor=white"> </a>
+    <a href="https://www.instagram.com/yashksaini.codes/"> <img src="https://img.shields.io/badge/Instagram-%23FF006E.svg?style=for-the-badge&logo=Instagram&logoColor=white"> </a>
+    <a href="https://twitter.com/EasycodesDev"> <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"> </a>
 </div>
-
+<br>
 ---
 
 ## Solutions
