@@ -38,12 +38,8 @@
 
 ## Solutions
 
-
-
-
-
-
 <!-- SOLUTIONS TABLE BEGIN -->
+
 | Leetcode Problem | Problem Statement | Solution |
 |---:|:-----|:----:|
 | [40](https://leetcode.com/problems/combination-sum-ii/) | Combination Sum II | [Solution](./40-combination-sum-ii/combination-sum-ii.java) |
