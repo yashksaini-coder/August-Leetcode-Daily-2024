@@ -34,11 +34,14 @@
 </div>
 <br>
 
+<div align='left'>
+    <img src="https://github.com/yashksaini-coder/August-Leetcode-Daily-2024/actions/workflows/detect-changes.yml/badge.svg">
+    <img src="https://github.com/yashksaini-coder/August-Leetcode-Daily-2024/actions/workflows/pages/pages-build-deployment/badge.svg">
+    <img src="https://github.com/yashksaini-coder/August-Leetcode-Daily-2024/actions/workflows/jekyll-gh-pages.yml/badge.svg">
+    <img src="https://github.com/yashksaini-coder/August-Leetcode-Daily-2024/actions/workflows/readme.yml/badge.svg">
+</div>
+    
 ## Solutions
-
-
-
-
 
 <!-- SOLUTIONS TABLE BEGIN -->
 | Leetcode Problem | Problem Statement | Solution |
